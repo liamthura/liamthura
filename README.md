@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Skills
 
-- **Core Web:** HTML, CSS, JavaScript
+- **Core Web:** HTML, CSS, JavaScript, Python, SQL
 - **Frameworks:** Learning React, Next.js, SvelteKit, and other modern web frameworks
 - **Tools:** Git, GitHub, VS Code
 - **Other Interests:** Open-source, collaboration, and continuous improvement
